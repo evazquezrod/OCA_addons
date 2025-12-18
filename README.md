@@ -5,7 +5,7 @@
 
 # OCA Addons
 
-web
+# web
 
 <!-- /!\ do not modify below this line -->
 
