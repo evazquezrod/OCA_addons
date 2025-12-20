@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Odoo / Python bytecode en addons
+addons/**/__pycache__/
+addons/**/*.pyc
+
+# Temporales
+*.tmp
+
+#Addons
+addons/*
+!addons/OCA_addons
+!addons/Cybrosys_addons
+
+# Datos locales (NO versionar)
+odoo-db-data
+odoo-db-data/*
+odoo-web-data
+odoo-web-data/*
