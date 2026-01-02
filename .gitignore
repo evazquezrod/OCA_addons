@@ -20,3 +20,5 @@ odoo-db-data
 odoo-db-data/*
 odoo-web-data
 odoo-web-data/*
+odoo-data
+odoo-data/*
